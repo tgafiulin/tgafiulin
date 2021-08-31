@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Я фронтенд (React) разработчик. Мне 26. 
 
 
-[![Linkedin Badge](	https://img.shields.io/badge/-Fattakhova-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
-[![Instagram Badge](https://img.shields.io/badge/-betelgeuse.21-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/betelgeuse.21/)](https://www.instagram.com/betelgeuse.21/)
-[![Youtube Badge](https://img.shields.io/badge/-Fattakhova-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH)
-[![Telegram Badge](https://img.shields.io/badge/-papaya21-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/tgafiulin)](https://t.me/papaya21)
-[![Gmail Badge](https://img.shields.io/badge/-Fattakhova-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ilnuro4ka01@gmail.com)](mailto:ilnuro4ka01@gmail.com)
+<!-- [![Linkedin Badge](	https://img.shields.io/badge/-Fattakhova-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/) -->
+[![Instagram Badge](https://img.shields.io/badge/-timurgafiulin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/timurgafiulin/)](https://www.instagram.com/timurgafiulin/)
+<!-- [![Youtube Badge](https://img.shields.io/badge/-Fattakhova-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH) -->
+[![Telegram Badge](https://img.shields.io/badge/-tgafiulin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/tgafiulin)](https://t.me/tgafiulin)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Fattakhova-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ilnuro4ka01@gmail.com)](mailto:ilnuro4ka01@gmail.com) -->
 
 ## Стэк технологий
 
