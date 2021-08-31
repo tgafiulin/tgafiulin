@@ -1,4 +1,4 @@
-### Привет. Меня зовут Ильнура Фаттахова. ✨
+### Привет. Меня зовут Гафиулин Тимур. ✨
 
 <!--
 **tgafiulin/tgafiulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Я фронтенд (React) разработчик. Мне 26. 
-
-В этом году закончила филиал Московского Государственного Университета им. М.В.Ломоносова в Ташкенте. 
-
-Люблю читать книги, если книга попалась увлекательная могу прочесть её за одну ночь/день.
-
-Пришла во фронтенд потому что очень нравится видеть результат работы сразу. Быстро нахожу общий язык с людьми. Люблю работу в команде, так проще обговаривать детали, узнавать что-то новое от коллег, расти профессионально.
 
 
 [![Linkedin Badge](	https://img.shields.io/badge/-Fattakhova-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
