@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Я фронтенд (React) разработчик. Мне 26. 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-timurgafiulin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tatarinfrontend/)](https://www.instagram.com/tatarinfrontend/)
-[![Telegram Badge](https://img.shields.io/badge/-tgafiulin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/tatarinfrontend)](https://t.me/tatarinfrontend)
+[![Instagram Badge](https://img.shields.io/badge/-tatarinfrontend-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tatarinfrontend/)](https://www.instagram.com/tatarinfrontend/)
+[![Telegram Badge](https://img.shields.io/badge/-tatarinfrontend-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/tatarinfrontend)](https://t.me/tatarinfrontend)
 [![Twitter Badge](https://img.shields.io/badge/-tatarinfrontend-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tatarinfrontend)](https://twitter.com/tatarinfrontend)
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Fattakhova-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ilnuro4ka01@gmail.com)](mailto:ilnuro4ka01@gmail.com) -->
 
