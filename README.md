@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я фронтенд (React) разработчик. Мне 26. 
+Я фронтенд (React) разработчик. Мне 28. 
 
 
 [![Instagram Badge](https://img.shields.io/badge/-tatarinfrontend-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tatarinfrontend/)](https://www.instagram.com/tatarinfrontend/)
