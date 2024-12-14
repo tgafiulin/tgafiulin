@@ -29,4 +29,4 @@ Frontend TechLead at econ.tech
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgafiulin))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgafiulin)
